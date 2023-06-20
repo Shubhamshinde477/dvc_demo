@@ -1,0 +1,5 @@
+outs:
+- md5: 40ec29d586e112af1e9c49bfa49d8503
+  size: 13055
+  hash: md5
+  path: StudentJson.json
